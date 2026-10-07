@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ex9</string>
+    <string name="hint_enter_text">Enter text</string>
+    <string name="btn_speak">SPEAK</string>
+    <string name="toast_enter_text">Enter some text</string>
+    <string name="error_lang_not_supported">Language not supported</string>
+    <string name="error_init_failed">Initialization failed</string>
+</resources>
